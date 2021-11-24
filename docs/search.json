@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "En este Blog...",
+      "description": "podremos saber mas",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-23T21:06:06-03:00"
+      "last_modified": "2021-11-23T21:20:04-03:00"
     },
     {
       "path": "index.html",

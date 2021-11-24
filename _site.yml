@@ -1,12 +1,12 @@
 name: "github_pageweb_distill"
-title: "&quot;Una pagina web Lousemp&quot;"
+title: "Una pagina web Lousemp"
 description: |
-  &quot;Una pagina web Lousemp&quot;
+  Una pagina web Lousemp;
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Incio"
       href: index.html
-    - text: "About"
+    - text: "Acerca de"
       href: about.html
 output: distill::distill_article
