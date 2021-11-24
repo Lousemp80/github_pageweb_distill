@@ -1,5 +1,5 @@
 ---
-title: "&quot;Una pagina web Lousemp&quot;"
+title: "Una pagina web Lousemp"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
