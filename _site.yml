@@ -1,7 +1,7 @@
 name: "github_pageweb_distill"
 title: "Una pagina web Lousemp"
 description: |
-  Una pagina web Lousemp;
+  Una pagina web Lousemp
 output_dir: "docs"
 navbar:
   right:
